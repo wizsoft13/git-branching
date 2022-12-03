@@ -7,3 +7,4 @@ git checkout -b (branch bug-fix)<br>
 git commit -m ( commit 9)<br>
 git checkout ( schitch to master)<br>
 git commit -m ( commit 12)<br>
+commit1.PNG
