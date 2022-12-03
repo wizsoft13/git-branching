@@ -7,4 +7,7 @@ git checkout -b (branch bug-fix)<br>
 git commit -m (commit 6)<br>
 git checkout (switch branch)<br>
 git merge (merge conflict)<br>
+git merge (conflict solved)<br>
+git commit -m (commit 8)<br>
+
 
