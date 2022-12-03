@@ -8,3 +8,4 @@ git commit -m (commit 3)<br>
 git merge (first merge)<br>
 git branch (second branch)<br>
 git commit -m (commit 4)<br>
+git commit -m (commit 5)<br>
