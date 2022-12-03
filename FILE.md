@@ -6,4 +6,5 @@ git commit -m (commit 2)<br>
 git checkout -b (branch bug-fix)<br>
 git commit -m (commit 6)<br>
 git checkout (switch branch)<br>
+git merge (merge conflict)<br>
 
