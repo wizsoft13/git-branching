@@ -6,3 +6,5 @@ git commit -m (commit 2)<br>
 git checkout -b (branch bug-fix)<br>
 git commit -m (commit 3)<br>
 git merge (first merge)<br>
+git branch (second branch)<br>
+git commit -m (commit 4)<br>
