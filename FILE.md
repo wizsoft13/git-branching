@@ -10,3 +10,4 @@ git branch (second branch)<br>
 git commit -m (commit 4)<br>
 git commit -m (commit 5)<br>
 git commit -m ( commit 10)<br>
+git merge ( second merge)<br>
